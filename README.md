@@ -30,7 +30,7 @@ The model is built on the same principle of CIDOC-CRM. The model reuses, when ap
 
 # References
 
-Giovannini, Elisabetta Caterina (2018) Virtual Reconstruction Information Management. A scientific method and 3D visualization of Virtual Reconstruction Processes., [Dissertation thesis], Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Architettura, 30 Ciclo. DOI [10.6092/unibo/amsdottorato/8330](10.6092/unibo/amsdottorato/8330)
+Giovannini, Elisabetta Caterina (2018) Virtual Reconstruction Information Management. A scientific method and 3D visualization of Virtual Reconstruction Processes., [Dissertation thesis], Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Architettura, 30 Ciclo. DOI [10.6092/unibo/amsdottorato/8330](https://amsdottorato.unibo.it/id/eprint/8330/)
 
 
 
