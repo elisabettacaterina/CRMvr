@@ -20,17 +20,17 @@ The goal of the concept model is to provide support to:
 * Support the assignment of level of accuracy of VR elements that can be deducted from the Reference Source
 
 ### CRMvrc v.2
-
+The v.1 of the Extension was encoded as CRMvr.
+The model was built on the same principle of CIDOC-CRM. The model was aligned to CIDOC-CRM classes and properties, and refers to other CRM extensions that were developed to ensure the completeness of documentation.
 
 ### CRMvr v.1
-The 
-
-
-The model is built on the same principle of CIDOC-CRM. The model reuses, when appropriate part of the CIDOC-CRM classes and properties, and refers to other CRM extensions that were developed to ensure the completeness of documentation.
+The v.1 of the Extension was encoded as CRMvr.
+The model was built on the same principle of CIDOC-CRM. The model was aligned to CIDOC-CRM classes and properties, and refers to other CRM extensions that were developed to ensure the completeness of documentation.
 
 ### References
+Apollonio, F. I., & Giovannini, E. C. (2015). A paradata documentation methodology for the Uncertainty Visualization in digital reconstruction of CH artifacts. SCIRES-IT-SCIentific RESearch and Information Technology, 5(1), 1-24. DOI [http://dx.doi.org/10.2423/i22394303v5n1p1](http://www.sciresit.it/article/view/11415)
 
-Giovannini, Elisabetta Caterina (2018) Virtual Reconstruction Information Management. A scientific method and 3D visualization of Virtual Reconstruction Processes., [Dissertation thesis], Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Architettura, 30 Ciclo. DOI [10.6092/unibo/amsdottorato/8330](https://amsdottorato.unibo.it/id/eprint/8330/)
+Giovannini, Elisabetta Caterina (2018) Virtual Reconstruction Information Management. A scientific method and 3D visualization of Virtual Reconstruction Processes., [Dissertation thesis], Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Architettura, XXX Ciclo. DOI [10.6092/unibo/amsdottorato/8330](https://amsdottorato.unibo.it/id/eprint/8330/)
 
 
 
