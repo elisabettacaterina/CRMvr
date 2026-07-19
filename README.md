@@ -1,7 +1,9 @@
-# CRMvrc v.2
+## A CIDOC-CRM extension for the Virtual Reconstruction Processes (VRC)
+
+### CRMvrc v.2
 
 
-# CRMvr v.1
+### CRMvr v.1
 
 Virtual Reconstruction (VR) processes are, in most cases, the result of a series of activities related to the definition of a representation of Cultural Heritage.
 
@@ -28,7 +30,7 @@ The goal of the concept model is to provide support to:
 
 The model is built on the same principle of CIDOC-CRM. The model reuses, when appropriate part of the CIDOC-CRM classes and properties, and refers to other CRM extensions that were developed to ensure the completeness of documentation.
 
-# References
+### References
 
 Giovannini, Elisabetta Caterina (2018) Virtual Reconstruction Information Management. A scientific method and 3D visualization of Virtual Reconstruction Processes., [Dissertation thesis], Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Architettura, 30 Ciclo. DOI [10.6092/unibo/amsdottorato/8330](https://amsdottorato.unibo.it/id/eprint/8330/)
 
