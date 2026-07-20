@@ -4,35 +4,69 @@
     "languages" : [ "en" ],
     "baseIris" : [ "https://github.com/elisabettacaterina/CRMvr", "http://www.w3.org/1999/02/22-rdf-syntax-ns", "http://www.cidoc-crm.org/extensions/crmdig", "http://www.cidoc-crm.org/extensions/crmsci", "http://www.w3.org/2000/01/rdf-schema", "http://www.w3.org/ns/prov", "http://www.w3.org/2001/XMLSchema", "http://www.w3.org/ns/ldp", "http://www.cidoc-crm.org/cidoc-crm" ],
     "title": {
-    "undefined": "Ontology for Virtual Reconstruction Processes (CRMvr)"
+    "undefined": "CRMvr Ontology"
     },
     "iri" : "https://github.com/elisabettacaterina/CRMvr/",
     "version" : "1.0.0",
+    "author" : [ "Elisabetta Caterina GIOVANNINI" ],
+    "description" : {
+      "undefined": "Ontology for Virtual Reconstruction Processes (VRP) aligned to CIDOC CRM."
+    },
     "labels" : {
-      "en" : "VRP version 1.0.0"
+      "en" : "CRMvr version 1.0.0"
     },
     "comments" : {
       "en" : "Ontology for Virtual Reconstruction Processes (VRP) aligned to CIDOC CRM."
     },
-    "other" : {
-      "versionInfo" : [ {
-        "identifier" : "versionInfo",
-        "language" : "en",
-        "value" : "1.0.0",
-        "type" : "label"
-      } ],
-      "generatedAtTime" : [ {
-        "identifier" : "generatedAtTime",
-        "language" : "undefined",
-        "value" : "2026-06-24T12:10:19.888Z",
-        "type" : "label"
-      } ],
-      "wasAttributedTo" : [ {
-        "identifier" : "wasAttributedTo",
-        "language" : "undefined",
-        "value" : "PincoPallo",
-        "type" : "iri"
-      } ]
+        "other": {
+      "date": [
+        {
+          "identifier": "date",
+          "language": "undefined",
+          "value": "2018-04-19",
+          "type": "label"
+        }
+      ],
+      "priorVersion": [
+        {
+          "identifier": "priorVersion",
+          "language": "undefined",
+          "value": "https://github.com/elisabettacaterina/CRMvr/",
+          "type": "iri"
+        }
+      ],
+      "creator": [
+        {
+          "identifier": "creator",
+          "language": "undefined",
+          "value": "Elisabetta Caterina GIOVANNINI",
+          "type": "label"
+        }
+      ],
+      "rights": [
+        {
+          "identifier": "rights",
+          "language": "undefined",
+          "value": "http://creativecommons.org/licenses/by/4.0/",
+          "type": "iri"
+        }
+      ],
+      "versionInfo": [
+        {
+          "identifier": "versionInfo",
+          "language": "undefined",
+          "value": "1.0.0",
+          "type": "label"
+        }
+      ],
+      "title": [
+        {
+          "identifier": "title",
+          "language": "undefined",
+          "value": "CRMvr version 1.0.0",
+          "type": "label"
+        }
+      ]
     }
   },
   "namespace" : [ ],
